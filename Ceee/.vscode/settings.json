@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 20,
+    "files.associations": {
+        "typeinfo": "c",
+        "unistd.h": "c",
+        "PRIMENUMBERS.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
