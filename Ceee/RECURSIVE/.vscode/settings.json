@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "stdio.h": "c",
+        "SUMOFARRAY.C": "cpp",
+        "FIND_DIGIT.C": "cpp"
+    }
+}
